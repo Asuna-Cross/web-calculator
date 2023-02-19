@@ -11,9 +11,7 @@
     // If operator in already
         // Call Calculate Numbers Function
         // Store operator
-        // Move outpt into output number
         // Clear input number
-        // Display Output
     // If Operator not present
         // Store Operator
         // Move input to output variable
