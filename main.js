@@ -4,23 +4,38 @@
 // Variable for operand
 
 // Number Clicked
-// Append input number to Number Clicked
+// Append Input Number to add clicked to end
 
 // Operator Clicked
 // Check for content in operand variable
-    // If so, calc
-        // Additional Case Handler for division
-            // Check if either number = "0"
-            // If so, don't calc
-    // Store operator
-    // Move outpt into output number
-    // Clear input number
-    // Display Output
+    // If operator in already
+        // Call Calculate Numbers Function
+        // Store operator
+        // Move outpt into output number
+        // Clear input number
+        // Display Output
+    // If Operator not present
+        // Store Operator
+        // Move input to output variable
+        // Clear input number
 
 // Sum Clicked
-    // Operate
-    // Output
-    // Clear Variables
+    // Call Calculate Numbers Function
+    // Call Full Clear Function
 
 // Clear Clicked
-    // Clear Variables
+    // Call Full Clear Function
+
+// Functions
+// Calculate Numbers
+    // Check which operator is in place
+    // Follow operators instruction
+        // Additional number check for 0 in divide
+    // Display Output
+    // Clear input
+    // Clear operator
+
+// Full Clear
+    // Clear Input
+    // Clear Operator
+    // Clear Output
