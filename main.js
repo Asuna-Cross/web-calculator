@@ -1,7 +1,10 @@
 // Declare Variables
 // Variable for output number
+var outNum;
 // Variable for input number
+var inNum;
 // Variable for operand
+var operand;
 
 // Number Clicked
 // Append Input Number to add clicked to end
